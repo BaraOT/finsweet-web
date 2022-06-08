@@ -524,9 +524,15 @@ footer {
   .first-body {
     flex-direction: column;
   }
+  .page-four {
+    display: none;
+  }
+  .mechanic-image {
+    width: 80%;
+  }
+
   .first-body div h1 {
     font-size: 30px;
-    text-align: center;
   }
   .first-body p button {
     margin-top: 10px;
@@ -675,7 +681,7 @@ footer {
     padding-left: 0px;
   }
   .brand-row img {
-    height: 35px;
+    height: 30px;
   }
   .page-six h3 {
     padding-top: 15px;
@@ -797,11 +803,12 @@ footer {
     padding-top: 30px;
   }
   .service-one img {
-    height: 170px;
+    height: 160px;
   }
   .service-flex {
     flex-direction: column;
     padding-top: 20px;
+    width: 90%;
   }
   .service-image-one img {
     height: 450px;
@@ -817,10 +824,10 @@ footer {
     padding-bottom: 30px;
   }
   .last-lasts img {
-    height: 210px;
+    height: 180px;
     padding-bottom: 70px;
   }
   .las img {
-    height: 140px;
+    height: 110px;
   }
 }
